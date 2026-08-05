@@ -6,9 +6,11 @@ Nothing is impossible , just do .
 ## Array
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
