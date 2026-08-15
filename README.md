@@ -36,5 +36,6 @@ Nothing is impossible , just do .
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
