@@ -22,11 +22,13 @@ Nothing is impossible , just do .
 | ------- |
 | [0001-two-sum](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
@@ -38,4 +40,12 @@ Nothing is impossible , just do .
 | [0013-roman-to-integer](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0412-fizz-buzz) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
