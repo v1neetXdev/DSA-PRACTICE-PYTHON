@@ -28,6 +28,7 @@ Nothing is impossible , just do .
 | ------- |
 | [0009-palindrome-number](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
@@ -48,4 +49,8 @@ Nothing is impossible , just do .
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/v1neetXdev/DSA-PRACTICE-PYTHON/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
